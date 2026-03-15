@@ -1,0 +1,7 @@
+{
+  "name": "LicençaPro - Gestão Inteligente de Licenças",
+  "description": "Sistema completo para controle, consulta e renovação de licenças regulatórias (Polícia Civil, Federal, IBAMA, CETESB, etc) com áreas para usuários e administradores.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
